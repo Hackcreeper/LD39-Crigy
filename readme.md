@@ -11,4 +11,7 @@ But be aware, other robots are trying to get all energy for themself.
 ---
 
 Controls:   
-WASD - Move Left Mouse Button - Shoot Space - Activate Generator Escape - Pause
+WASD - Move Left   
+Mouse Button - Shoot   
+Space - Activate Generator   
+Escape - Pause
